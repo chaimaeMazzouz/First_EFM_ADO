@@ -42,7 +42,7 @@ namespace First_EFM_ADO
 
         private void button4_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Test"+ this.aDHERENTSBindingSource.Position.ToString());
+            
             this.aDHERENTSBindingSource.Position = 0;
         }
 
