@@ -1,0 +1,11 @@
+C:\Users\MZ\source\repos\First_EFM_ADO\First_EFM_ADO\bin\Debug\First_EFM_ADO.exe.config
+C:\Users\MZ\source\repos\First_EFM_ADO\First_EFM_ADO\bin\Debug\First_EFM_ADO.exe
+C:\Users\MZ\source\repos\First_EFM_ADO\First_EFM_ADO\bin\Debug\First_EFM_ADO.pdb
+C:\Users\MZ\source\repos\First_EFM_ADO\First_EFM_ADO\obj\Debug\First_EFM_ADO.csprojAssemblyReference.cache
+C:\Users\MZ\source\repos\First_EFM_ADO\First_EFM_ADO\obj\Debug\First_EFM_ADO.Gestion_des_adherents.resources
+C:\Users\MZ\source\repos\First_EFM_ADO\First_EFM_ADO\obj\Debug\First_EFM_ADO.HOME.resources
+C:\Users\MZ\source\repos\First_EFM_ADO\First_EFM_ADO\obj\Debug\First_EFM_ADO.Properties.Resources.resources
+C:\Users\MZ\source\repos\First_EFM_ADO\First_EFM_ADO\obj\Debug\First_EFM_ADO.csproj.GenerateResource.cache
+C:\Users\MZ\source\repos\First_EFM_ADO\First_EFM_ADO\obj\Debug\First_EFM_ADO.csproj.CoreCompileInputs.cache
+C:\Users\MZ\source\repos\First_EFM_ADO\First_EFM_ADO\obj\Debug\First_EFM_ADO.exe
+C:\Users\MZ\source\repos\First_EFM_ADO\First_EFM_ADO\obj\Debug\First_EFM_ADO.pdb
